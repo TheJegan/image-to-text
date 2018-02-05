@@ -1,0 +1,27 @@
+{
+  "name": "image-to-text",
+  "version": "1.0.0",
+  "description": "image to text sample",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheJegan/image-to-text.git"
+  },
+  "keywords": [
+    "image",
+    "to",
+    "text"
+  ],
+  "author": "jegan matthews",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheJegan/image-to-text/issues"
+  },
+  "homepage": "https://github.com/TheJegan/image-to-text#readme",
+  "dependencies": {
+    "node-tesseract": "^0.2.7"
+  }
+}
